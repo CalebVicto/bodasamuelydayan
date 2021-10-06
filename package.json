@@ -1,5 +1,5 @@
 {
-  "homepage": "https://caleb-izquierdo.xyz",
+  "homepage": "https://bodasamuelydayan.site",
   "name": "boda-samu",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build && echo caleb-izquierdo.xyz > ./build/CNAME",
+    "predeploy": "npm run build && echo bodasamuelydayan.site > ./build/CNAME",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
