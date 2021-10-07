@@ -18,11 +18,11 @@ const Regalos = () => {
           <h1>Regalos</h1>
         </div>
         <p>Sus buenos deseos son suficientes para nosotros en el
-          matrimonio y en caso de quere hacernos un presente este
-          puede ser presencial o en efectivo
+          matrimonio y en caso de querer hacernos un presente este
+          puede ser presencial o en efectivo.
         </p>
         <p>
-          <b>Dirección de novio: </b>
+          <b>Dirección del novio: </b>
           Calle Manuel Gonzales 736 - Urb. El Retablo -Comas
           <a href="https://goo.gl/maps/TsEZzLQp2ZCZfBtm7" target="_blank" rel="noreferrer">
             <img src={map} alt="" />
